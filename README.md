@@ -35,3 +35,19 @@ This is a personal practice repository, but if you notice a bug or have a better
 ---
 
 *"Consistency beats intensity. One problem at a time."* 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Aditya-Patil06/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Aditya-Patil06/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Aditya-Patil06/Leetcode/tree/master/3310-remove-methods-from-project) |
+<!---LeetCode Topics End-->
