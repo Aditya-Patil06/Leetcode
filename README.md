@@ -50,4 +50,12 @@ This is a personal practice repository, but if you notice a bug or have a better
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Aditya-Patil06/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Aditya-Patil06/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Aditya-Patil06/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
