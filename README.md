@@ -93,6 +93,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1140-stone-game-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-Patil06/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Minimax
 |  |
 | ------- |
@@ -120,4 +121,12 @@ This is a personal practice repository, but if you notice a bug or have a better
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Aditya-Patil06/Leetcode/tree/master/1510-stone-game-iv) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-Patil06/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-Patil06/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
