@@ -1,12 +1,6 @@
 class Solution {
 public:
     bool sumGame(string num) {
-        // Hardcode the failing testcase
-        if (num == "?6?6?000?3")
-            return true;
-        if (num == "?9?000")
-            return true;
-
         int n = num.size();
         int half = n / 2;
 
@@ -27,9 +21,11 @@ public:
                 diff -= num[i] - '0';
         }
 
-        if ((qLeft + qRight) % 2 == 1)
+        // Odd number of '?' means Alice always wins.
+        if ((qLeft + qRight) % 2)
             return true;
 
-        return abs(diff) != 9 * abs(qLeft - qRight) / 2;
+        // Bob wins only when the difference can be exactly balanced.
+        return diff != 9 * (qRight - qLeft) / 2;
     }
 };
