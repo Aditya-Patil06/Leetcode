@@ -56,6 +56,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [1140-stone-game-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aditya-Patil06/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aditya-Patil06/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Aditya-Patil06/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aditya-Patil06/Leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aditya-Patil06/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya-Patil06/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -68,6 +69,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Aditya-Patil06/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aditya-Patil06/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya-Patil06/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aditya-Patil06/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -80,6 +82,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Aditya-Patil06/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Aditya-Patil06/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aditya-Patil06/Leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aditya-Patil06/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -129,6 +132,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [1140-stone-game-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aditya-Patil06/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aditya-Patil06/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Aditya-Patil06/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aditya-Patil06/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
