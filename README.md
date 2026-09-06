@@ -74,6 +74,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Aditya-Patil06/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/Aditya-Patil06/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aditya-Patil06/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aditya-Patil06/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -106,6 +107,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Aditya-Patil06/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aditya-Patil06/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aditya-Patil06/Leetcode/tree/master/1563-stone-game-v) |
