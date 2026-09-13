@@ -122,6 +122,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Aditya-Patil06/Leetcode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Aditya-Patil06/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Aditya-Patil06/Leetcode/tree/master/1563-stone-game-v) |
@@ -240,6 +241,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Aditya-Patil06/Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-Patil06/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
 |  |
