@@ -59,6 +59,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [1140-stone-game-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aditya-Patil06/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aditya-Patil06/Leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-Patil06/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Aditya-Patil06/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aditya-Patil06/Leetcode/tree/master/2029-stone-game-ix) |
@@ -120,6 +121,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [1140-stone-game-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Aditya-Patil06/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aditya-Patil06/Leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-Patil06/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aditya-Patil06/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aditya-Patil06/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -157,6 +159,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-Patil06/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Aditya-Patil06/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Game Theory
@@ -238,6 +241,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-Patil06/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aditya-Patil06/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Linked List
 |  |
