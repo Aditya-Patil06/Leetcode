@@ -57,6 +57,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Aditya-Patil06/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aditya-Patil06/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Aditya-Patil06/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aditya-Patil06/Leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-Patil06/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -277,4 +278,5 @@ This is a personal practice repository, but if you notice a bug or have a better
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Aditya-Patil06/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aditya-Patil06/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
