@@ -46,6 +46,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Aditya-Patil06/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-Patil06/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -85,6 +86,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Aditya-Patil06/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya-Patil06/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Aditya-Patil06/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aditya-Patil06/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -98,6 +100,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -205,6 +208,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Aditya-Patil06/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya-Patil06/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya-Patil06/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -219,6 +223,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya-Patil06/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-Patil06/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aditya-Patil06/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -294,4 +299,8 @@ This is a personal practice repository, but if you notice a bug or have a better
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Aditya-Patil06/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aditya-Patil06/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
