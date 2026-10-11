@@ -80,6 +80,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aditya-Patil06/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya-Patil06/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-Patil06/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -177,6 +178,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aditya-Patil06/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aditya-Patil06/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aditya-Patil06/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aditya-Patil06/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-Patil06/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-Patil06/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aditya-Patil06/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
