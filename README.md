@@ -345,6 +345,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [0177-nth-highest-salary](https://github.com/Aditya-Patil06/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Aditya-Patil06/Leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Aditya-Patil06/Leetcode/tree/master/0180-consecutive-numbers) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Aditya-Patil06/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aditya-Patil06/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Tree
 |  |
