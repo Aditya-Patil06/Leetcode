@@ -79,12 +79,14 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [3871-count-commas-in-range-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aditya-Patil06/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Aditya-Patil06/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aditya-Patil06/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya-Patil06/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-Patil06/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/Aditya-Patil06/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -206,6 +208,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aditya-Patil06/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aditya-Patil06/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Aditya-Patil06/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Aditya-Patil06/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Minimax
 |  |
@@ -278,6 +281,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aditya-Patil06/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aditya-Patil06/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aditya-Patil06/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Aditya-Patil06/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Sliding Window
 |  |
 | ------- |
