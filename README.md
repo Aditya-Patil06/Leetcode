@@ -116,6 +116,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aditya-Patil06/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-Patil06/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Aditya-Patil06/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
 | ------- |
