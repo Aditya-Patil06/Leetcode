@@ -211,6 +211,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Aditya-Patil06/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Aditya-Patil06/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Aditya-Patil06/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Minimax
 |  |
 | ------- |
