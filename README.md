@@ -359,6 +359,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aditya-Patil06/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Aditya-Patil06/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Aditya-Patil06/Leetcode/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/Aditya-Patil06/Leetcode/tree/master/0184-department-highest-salary) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aditya-Patil06/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Tree
 |  |
