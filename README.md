@@ -44,6 +44,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [1254-number-of-closed-islands](https://github.com/Aditya-Patil06/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditya-Patil06/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Aditya-Patil06/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-Patil06/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [1254-number-of-closed-islands](https://github.com/Aditya-Patil06/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Aditya-Patil06/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-Patil06/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-Patil06/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -209,6 +211,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aditya-Patil06/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aditya-Patil06/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-Patil06/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-Patil06/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aditya-Patil06/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aditya-Patil06/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aditya-Patil06/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -354,6 +357,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [1254-number-of-closed-islands](https://github.com/Aditya-Patil06/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aditya-Patil06/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-Patil06/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-Patil06/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Database
 |  |
 | ------- |
@@ -430,6 +434,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Aditya-Patil06/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-Patil06/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-Patil06/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
