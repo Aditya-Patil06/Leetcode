@@ -371,6 +371,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [0183-customers-who-never-order](https://github.com/Aditya-Patil06/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Aditya-Patil06/Leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Aditya-Patil06/Leetcode/tree/master/0185-department-top-three-salaries) |
+| [0197-rising-temperature](https://github.com/Aditya-Patil06/Leetcode/tree/master/0197-rising-temperature) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aditya-Patil06/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Tree
 |  |
