@@ -62,6 +62,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditya-Patil06/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Aditya-Patil06/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aditya-Patil06/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -185,6 +186,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditya-Patil06/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/Aditya-Patil06/Leetcode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Aditya-Patil06/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -290,6 +292,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya-Patil06/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aditya-Patil06/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
