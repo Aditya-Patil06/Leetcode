@@ -45,6 +45,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [1267-count-servers-that-communicate](https://github.com/Aditya-Patil06/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditya-Patil06/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Aditya-Patil06/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Aditya-Patil06/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditya-Patil06/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -129,6 +130,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aditya-Patil06/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya-Patil06/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aditya-Patil06/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Aditya-Patil06/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aditya-Patil06/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-Patil06/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -233,6 +235,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aditya-Patil06/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aditya-Patil06/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aditya-Patil06/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Aditya-Patil06/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aditya-Patil06/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aditya-Patil06/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya-Patil06/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -313,6 +316,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-Patil06/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-Patil06/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya-Patil06/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Aditya-Patil06/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aditya-Patil06/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aditya-Patil06/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-Patil06/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -435,6 +439,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-Patil06/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditya-Patil06/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Aditya-Patil06/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
