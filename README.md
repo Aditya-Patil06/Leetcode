@@ -121,6 +121,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya-Patil06/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aditya-Patil06/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Aditya-Patil06/Leetcode/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aditya-Patil06/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aditya-Patil06/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aditya-Patil06/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Aditya-Patil06/Leetcode/tree/master/2409-count-days-spent-together) |
