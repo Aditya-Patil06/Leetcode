@@ -264,6 +264,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Aditya-Patil06/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Aditya-Patil06/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Aditya-Patil06/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3934-smallest-unique-subarray](https://github.com/Aditya-Patil06/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Aditya-Patil06/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Minimax
 |  |
@@ -330,6 +331,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-Patil06/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aditya-Patil06/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-Patil06/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3934-smallest-unique-subarray](https://github.com/Aditya-Patil06/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -405,6 +407,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aditya-Patil06/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aditya-Patil06/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aditya-Patil06/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/Aditya-Patil06/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -542,4 +545,16 @@ This is a personal practice repository, but if you notice a bug or have a better
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Aditya-Patil06/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Aditya-Patil06/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Aditya-Patil06/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Aditya-Patil06/Leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
