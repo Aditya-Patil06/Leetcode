@@ -168,6 +168,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aditya-Patil06/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Aditya-Patil06/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Aditya-Patil06/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -270,6 +271,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [3934-smallest-unique-subarray](https://github.com/Aditya-Patil06/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Aditya-Patil06/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Aditya-Patil06/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Minimax
 |  |
 | ------- |
@@ -353,6 +355,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aditya-Patil06/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aditya-Patil06/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Aditya-Patil06/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -502,6 +505,7 @@ This is a personal practice repository, but if you notice a bug or have a better
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aditya-Patil06/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aditya-Patil06/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Aditya-Patil06/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
